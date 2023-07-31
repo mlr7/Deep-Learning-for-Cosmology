@@ -86,3 +86,20 @@ A Bayesian Framework for Cosmic String Searches in CMB Maps, https://arxiv.org/p
 Parameter estimation for the cosmic microwave background with Bayesian neural networks, 2020, https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.103509
 
 (next steps: grow data sizes, train CNN, ViT, . . . ) 
+
+Caltech Ay 21, Galaxies and Cosmology, 2020, https://sites.astro.caltech.edu/~ccs/Ay21/ (Chuck Steidel)
+
+These may be helpful for alternative treatments of selected topics. Copies are on reserve in the Cahill library. :
+Introduction to Cosmology (second edition, 2017)
+by Barbara Ryden
+ISBN 978-1107154834
+(2017 Cambridge University Press)
+This is a very nice book, at almost the perfect level for Ay21; it covers most of the cosmology topics we'll be looking at, but does not cover as much on galaxies, galaxy formation, and other more astrophysical concepts.
+Observational Cosmology
+by Stephen Serjeant
+ISBN 978-0521157155
+(2010, Cambridge University Press)
+Rather light on theory and calculation, but comprehensive, well explained, and well-illustrated in full color.
+
+Caltech Ay 21, Galaxies and Cosmology, 2023, https://sites.astro.caltech.edu/~george/ay21/ (George Djorgovski)
+
